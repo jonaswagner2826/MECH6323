@@ -9,6 +9,7 @@
 \usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage{empheq}
+\usepackage{pdfpages}
 
 % MATLAB Formatting Code
 \usepackage[numbered,framed]{matlab-prettifier}
@@ -69,9 +70,212 @@ However, then this transfer function is unstable:
 
 \newpage
 \section{Problem 2}
+\subsection{(a)}
+\[
+	G = \cfrac{
+		100 s + 100
+	}{
+		s^2 + 110s + 1000
+	}
+	= \cfrac{
+		100 (s+1)
+	}{
+		(s+100) (s+10)
+	}
+\]
+\begin{enumerate}
+	\item Zeros:
+	\begin{enumerate}
+		\item $z_1 = -1$
+	\end{enumerate}
+	\item Poles:
+	\begin{enumerate}
+		\item $p_1 = -100$
+		\item $p_2 = -10$
+	\end{enumerate}
+	\item Gain:
+	\begin{enumerate}
+		\item $K = 100$
+	\end{enumerate}
+\end{enumerate}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=\textwidth]{figs/pblm2a.png}
+\end{figure}
+
+\newpage
+\subsection{(b)}
+\[
+	G = \cfrac{
+		10 s
+	}{
+		s^2 + 3s
+	}
+	= \cfrac{
+		10 s
+	}{
+		s (s + 3)
+	}
+\]
+\begin{enumerate}
+	\item Zeros:
+	\begin{enumerate}
+		\item $z_1 = 0$
+	\end{enumerate}
+	\item Poles:
+	\begin{enumerate}
+		\item $p_1 = 0$
+		\item $p_2 = -3$
+	\end{enumerate}
+	\item Gain:
+	\begin{enumerate}
+		\item $K = 10$
+	\end{enumerate}
+\end{enumerate}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=\textwidth]{figs/pblm2b.png}
+\end{figure}
+
+
+\newpage
+\subsection{(c)}
+\[
+	G = \cfrac{
+		-100 s
+	}{
+		(s+1)^2 (s+10)
+	}
+\]
+\begin{enumerate}
+	\item Zeros:
+	\begin{enumerate}
+		\item $z_1 = 0$
+	\end{enumerate}
+	\item Poles:
+	\begin{enumerate}
+		\item $p_{1,2} = -1$
+		\item $p_3 = -10$
+	\end{enumerate}
+	\item Gain:
+	\begin{enumerate}
+		\item $K = -100$
+	\end{enumerate}
+\end{enumerate}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=\textwidth]{figs/pblm2c.png}
+\end{figure}
+
+
+\newpage
+\subsection{(d)}
+\[
+	G = \cfrac{
+		30 (s + 10)
+	}{
+		s^2 + 3s + 50
+	}
+	= \cfrac{
+		30 (s+10)
+	}{
+		(s + 1.5 - j6.91) (s + 1.5 + j6.91)
+	}
+\]
+\begin{enumerate}
+	\item Zeros:
+	\begin{enumerate}
+		\item $z_1 = -10$
+	\end{enumerate}
+	\item Poles:
+	\begin{enumerate}
+		\item $p_{1,2} = -1.5 \pm j 6.91$
+	\end{enumerate}
+	\item Gain:
+	\begin{enumerate}
+		\item $K = 30$
+	\end{enumerate}
+\end{enumerate}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=\textwidth]{figs/pblm2d.png}
+\end{figure}
 
 
 
+\newpage
+\subsection{(e)}
+\[
+	G = \cfrac{
+		4 (s^2 + s + 25)
+	}{
+		s^3 + 100s^2
+	}
+	= \cfrac{
+		4 (s + 0.5 + j 4.9749) (s + 0.5 - j 4.9749)
+	}{
+		s^2 (s+100)
+	}
+\]
+\begin{enumerate}
+	\item Zeros:
+	\begin{enumerate}
+		\item $z_{1,2} = -0.5 \pm j 4.9749$
+	\end{enumerate}
+	\item Poles:
+	\begin{enumerate}
+		\item $p_{1,2} = 0$
+		\item $p_3 = -100$
+	\end{enumerate}
+	\item Gain:
+	\begin{enumerate}
+		\item $K = 4$
+	\end{enumerate}
+\end{enumerate}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=\textwidth]{figs/pblm2e.png}
+\end{figure}
+
+
+
+\newpage
+\subsection{(f)}
+\[
+	G = \cfrac{
+		10
+	}{
+		s^2 (1 + 0.2s) (1 + 0.5s)
+	}
+	= \cfrac{
+		100
+	}{
+		s^2 (s+5)(s+2)
+	}
+\]
+\begin{enumerate}
+	\item Zeros: NA
+	\item Poles:
+	\begin{enumerate}
+		\item $p_{1,2} = 0$
+		\item $p_3 = -5$
+		\item $p_4 = -2$
+	\end{enumerate}
+	\item Gain:
+	\begin{enumerate}
+		\item $K = 100$
+	\end{enumerate}
+\end{enumerate}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=\textwidth]{figs/pblm2f.png}
+\end{figure}
 
 \newpage
 \section{Problem 3}
@@ -352,8 +556,13 @@ This is then verified as
 \newpage
 \appendix
 \section{MATLAB Code:}\label{apx:matlab}
-All code I write in this course can be found on my GitHub repository:\\
+See attached.
+Additionally, all the code I write in this course can be found on my GitHub repository:\\
 \href{https://github.com/jonaswagner2826/MECH6323}{https://github.com/jonaswagner2826/MECH6323}
+
+\includepdf[pages=-]{MECH6323_HW02.pdf}
+
+
 
 
 \end{document}
