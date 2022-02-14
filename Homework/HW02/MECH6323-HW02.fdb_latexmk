@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1644812888 "c:/Users/Jonas/OneDrive - The University of Texas at Dallas/2022_Spring/MECH6323/Homework/HW02/MECH6323-HW02.tex" "MECH6323-HW02.pdf" "MECH6323-HW02" 1644812892
-  "MECH6323-HW02.aux" 1644812891 1258 44bb3d9197842e0ef3ca747f46d7cdc1 "pdflatex"
-  "MECH6323-HW02.out" 1644812891 428 c1122d8a90a889c373276da5b0ff965c "pdflatex"
-  "MECH6323-HW02.tex" 1644812884 2643 fdfbfd8394cb7372d700d91f3ca2da80 ""
-  "c:/Users/Jonas/OneDrive - The University of Texas at Dallas/2022_Spring/MECH6323/Homework/HW02/MECH6323-HW02.tex" 1644812884 2643 fdfbfd8394cb7372d700d91f3ca2da80 ""
+["pdflatex"] 1644816665 "c:/Users/Jonas/OneDrive - The University of Texas at Dallas/2022_Spring/MECH6323/Homework/HW02/MECH6323-HW02.tex" "MECH6323-HW02.pdf" "MECH6323-HW02" 1644816667
+  "MECH6323-HW02.aux" 1644816667 2197 92563bfc752ffe5ce574ac4e02fdd1d9 "pdflatex"
+  "MECH6323-HW02.out" 1644816667 1660 b3d0f250fd6648b4660e8db463b6e6a9 "pdflatex"
+  "MECH6323-HW02.tex" 1644816663 3779 79db84e62ec180cfe807f6dac5ae343f ""
+  "c:/Users/Jonas/OneDrive - The University of Texas at Dallas/2022_Spring/MECH6323/Homework/HW02/MECH6323-HW02.tex" 1644816663 3779 79db84e62ec180cfe807f6dac5ae343f ""
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1630536755 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1630534826 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1630534826 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -35,6 +35,7 @@
   "c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1630534826 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1630534826 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1630534826 32762 7fee39e011c23b3589931effd97b9702 ""
+  "c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1630534826 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1630538310 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "c:/texlive/2021/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1630534971 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "c:/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1630535342 40635 c40361e206be584d448876bba8a64a3b ""
@@ -109,7 +110,7 @@
   "figs/pblm3a.jpg" 1644810719 549036 2f47434bf54d18bbb20950547bef6602 ""
   "figs/pblm3b.jpg" 1644810732 518128 db3c4a99f79a9452e1b02cd6ca8d94f2 ""
   (generated)
-  "MECH6323-HW02.log"
   "MECH6323-HW02.aux"
+  "MECH6323-HW02.log"
   "MECH6323-HW02.pdf"
   "MECH6323-HW02.out"

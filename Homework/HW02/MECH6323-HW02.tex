@@ -56,7 +56,7 @@ For each of the bode plots:
 	\includegraphics[width=0.5\textwidth]{figs/pblm3a.jpg}
 \end{figure}
 
-\textbf{Gain, Poles, and Zeros:}
+\subsubsection{Gain, Poles, and Zeros:}
 \begin{enumerate}
 	\item \textbf{Gain:}  $20$ db = 10
 	\item \textbf{Poles:}
@@ -74,7 +74,7 @@ For each of the bode plots:
 		}
 \]
 
-\textbf{Cross-over Frequency:}
+\subsubsection{Cross-over Frequency:}
 \begin{enumerate}
 	\item $\omega_c = 10^{1} = 10$ rad/s
 	\item $\omega_{180} = 10^{3} = 100$ rad/s
@@ -90,23 +90,77 @@ For each of the bode plots:
 	\caption{Bode Plot 2}
 \end{figure}
 
-\textbf{Gain, Poles, and Zeros:}
+\subsubsection{Gain, Poles, and Zeros:}
 \begin{enumerate}
-	\item \textbf{Gain:}  $20$ db = 10
+	\item \textbf{Gain:}  $-20$ db = $\frac{1}{10}$
 	\item \textbf{Poles:}
 	\begin{enumerate}
-		\item $10^{0} = 1$ rad/s
-		\item $10^{2} = 100$ rad/s
-		\item $10^{4} = 10,000$ rad/s
+		\item $10^{0} = 1$ rad/s (complex)
+		\item $10^{1} = 10$ rad/s (complex)
 	\end{enumerate}
-	\item Zeros: (NA)
+	\item Zeros:
+	\begin{enumerate}
+		\item $10^{3} = 1,000$ rad/s
+	\end{enumerate}
 \end{enumerate}
 
-\textbf{Transfer Function:}\[
-	H(s) = \cfrac{10}{
-		\qty(1 + \frac{s}{1}) \qty(1 + \frac{s}{100}) \qty(1 + \frac{s}{10000})
+\subsubsection{Transfer Function:}\[
+	H(s) = \cfrac{
+			(1 + \frac{s}{1000})
+		}{
+			10 \qty(
+				\frac{1}{1}\qty(s^2 + 2(\frac{1}{10})(1)s + (1)^2)
+			) \qty(
+				\frac{1}{10}\qty(s^2 + 2(\frac{1}{10})(10)s + (10)^2)
+			)
+		} = \cfrac{
+			(s+1000)
+		}{
+			\qty(s^2 + 0.2 s + 1) \qty(s^2 + 2s + 100)
 		}
 \]
+Assuming a Q-factor of around 10 to get the complex response.
+
+
+\subsubsection{Cross-over Frequency:}
+\begin{enumerate}
+	\item $\omega_c = 10^{0} = 1$ rad/s
+	\item $\omega_{180} = 10^{3} = 100$ rad/s
+\end{enumerate}
+
+
+
+\newpage
+\section{Problem 4}
+Consider the interconection of Problem 1 with the PI controller\[
+	C(s) = \cfrac{10 (s+3)}{s}
+\] and plant \[
+	P(s) = \cfrac{-0.5(s^2 - 2000)}{(s-3)(s^2 + 50s + 1000)}
+\]
+
+\subsection{Is the feedback system stable? Why?}
+\begin{align*}
+	1 + C(s) P(s) 
+		&= 1 + \cfrac{10 (s+3)}{s} \cfrac{-0.5(s^2 - 2000)}{(s-3)(s^2 + 50s + 1000)}\\
+		&= \cfrac{
+			s (s-3) (s^2 + 50s + 1000) + 10 (s + 3) (-0.5) (s^2 - 2000)
+		}{
+			s (s-3) (s^2 + 50s + 1000)
+		}\\
+		&\approx \cfrac{
+			(s^2 + 11.73s + 73.9) (s^2 + 30.27s + 406)
+		}{
+			s (s-3) (s^2 + 50s + 1000)
+		}
+\end{align*}
+
+
+
+
+
+
+
+
 
 
 % \newpage
