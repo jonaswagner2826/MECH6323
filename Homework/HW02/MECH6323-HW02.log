@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.1)  14 FEB 2022 07:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.1)  14 FEB 2022 11:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -474,317 +474,317 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  [1
 
 {c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<figs/pblm1.png, id=154, 582.67688pt x 154.07562pt>
+<figs/pblm1.png, id=164, 582.67688pt x 154.07562pt>
 File: figs/pblm1.png Graphic file (type png)
 <use figs/pblm1.png>
 Package pdftex.def Info: figs/pblm1.png  used on input line 39.
 (pdftex.def)             Requested size: 234.8775pt x 62.1064pt.
- [2 <./figs/pblm1.png>]
-<figs/pblm2a.png, id=162, 632.3625pt x 474.27188pt>
+ [2 <./figs/pblm1.png>] [3]
+<figs/pblm2a.png, id=177, 632.3625pt x 474.27188pt>
 File: figs/pblm2a.png Graphic file (type png)
 <use figs/pblm2a.png>
-Package pdftex.def Info: figs/pblm2a.png  used on input line 104.
+Package pdftex.def Info: figs/pblm2a.png  used on input line 127.
 (pdftex.def)             Requested size: 469.75502pt x 352.32346pt.
- [3 <./figs/pblm2a.png (PNG copy)>]
-<figs/pblm2b.png, id=175, 632.3625pt x 474.27188pt>
+ [4 <./figs/pblm2a.png (PNG copy)>]
+<figs/pblm2b.png, id=189, 632.3625pt x 474.27188pt>
 File: figs/pblm2b.png Graphic file (type png)
 <use figs/pblm2b.png>
-Package pdftex.def Info: figs/pblm2b.png  used on input line 139.
+Package pdftex.def Info: figs/pblm2b.png  used on input line 162.
 (pdftex.def)             Requested size: 469.75502pt x 352.32346pt.
- [4 <./figs/pblm2b.png (PNG copy)>]
-<figs/pblm2c.png, id=187, 632.3625pt x 474.27188pt>
+ [5 <./figs/pblm2b.png (PNG copy)>]
+<figs/pblm2c.png, id=201, 632.3625pt x 474.27188pt>
 File: figs/pblm2c.png Graphic file (type png)
 <use figs/pblm2c.png>
-Package pdftex.def Info: figs/pblm2c.png  used on input line 170.
+Package pdftex.def Info: figs/pblm2c.png  used on input line 193.
 (pdftex.def)             Requested size: 469.75502pt x 352.32346pt.
- [5 <./figs/pblm2c.png (PNG copy)>]
-<figs/pblm2d.png, id=199, 632.3625pt x 474.27188pt>
+ [6 <./figs/pblm2c.png (PNG copy)>]
+<figs/pblm2d.png, id=213, 632.3625pt x 474.27188pt>
 File: figs/pblm2d.png Graphic file (type png)
 <use figs/pblm2d.png>
-Package pdftex.def Info: figs/pblm2d.png  used on input line 205.
+Package pdftex.def Info: figs/pblm2d.png  used on input line 228.
 (pdftex.def)             Requested size: 469.75502pt x 352.32346pt.
- [6 <./figs/pblm2d.png (PNG copy)>]
-<figs/pblm2e.png, id=210, 632.3625pt x 474.27188pt>
+ [7 <./figs/pblm2d.png (PNG copy)>]
+<figs/pblm2e.png, id=225, 632.3625pt x 474.27188pt>
 File: figs/pblm2e.png Graphic file (type png)
 <use figs/pblm2e.png>
-Package pdftex.def Info: figs/pblm2e.png  used on input line 242.
+Package pdftex.def Info: figs/pblm2e.png  used on input line 265.
 (pdftex.def)             Requested size: 469.75502pt x 352.32346pt.
- [7 <./figs/pblm2e.png (PNG copy)>]
-<figs/pblm2f.png, id=223, 632.3625pt x 474.27188pt>
+ [8 <./figs/pblm2e.png (PNG copy)>]
+<figs/pblm2f.png, id=237, 632.3625pt x 474.27188pt>
 File: figs/pblm2f.png Graphic file (type png)
 <use figs/pblm2f.png>
-Package pdftex.def Info: figs/pblm2f.png  used on input line 277.
+Package pdftex.def Info: figs/pblm2f.png  used on input line 300.
 (pdftex.def)             Requested size: 469.75502pt x 352.32346pt.
- [8 <./figs/pblm2f.png (PNG copy)>]
-<figs/pblm3a.jpg, id=235, 369.89545pt x 312.03061pt>
+ [9 <./figs/pblm2f.png (PNG copy)>]
+<figs/pblm3a.jpg, id=249, 369.89545pt x 312.03061pt>
 File: figs/pblm3a.jpg Graphic file (type jpg)
 <use figs/pblm3a.jpg>
-Package pdftex.def Info: figs/pblm3a.jpg  used on input line 292.
+Package pdftex.def Info: figs/pblm3a.jpg  used on input line 315.
 (pdftex.def)             Requested size: 234.8775pt x 198.13246pt.
- [9 <./figs/pblm3a.jpg>]
-<figs/pblm3b.jpg, id=251, 369.89545pt x 312.03061pt>
+ [10 <./figs/pblm3a.jpg>]
+<figs/pblm3b.jpg, id=265, 369.89545pt x 312.03061pt>
 File: figs/pblm3b.jpg Graphic file (type jpg)
 <use figs/pblm3b.jpg>
-Package pdftex.def Info: figs/pblm3b.jpg  used on input line 325.
+Package pdftex.def Info: figs/pblm3b.jpg  used on input line 348.
 (pdftex.def)             Requested size: 234.8775pt x 198.13246pt.
- [10 <./figs/pblm3b.jpg>]
-<figs/pblm4_L_bode.png, id=265, 632.3625pt x 474.27188pt>
+ [11 <./figs/pblm3b.jpg>]
+<figs/pblm4_L_bode.png, id=280, 632.3625pt x 474.27188pt>
 File: figs/pblm4_L_bode.png Graphic file (type png)
 <use figs/pblm4_L_bode.png>
-Package pdftex.def Info: figs/pblm4_L_bode.png  used on input line 404.
+Package pdftex.def Info: figs/pblm4_L_bode.png  used on input line 427.
 (pdftex.def)             Requested size: 328.82707pt x 246.62279pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 431.
+(hyperref)                removing `math shift' on input line 454.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 431.
+(hyperref)                removing `subscript' on input line 454.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 431.
+(hyperref)                removing `math shift' on input line 454.
 
-[11]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 447.
-
+[12]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 447.
+(hyperref)                removing `math shift' on input line 470.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 447.
+(hyperref)                removing `subscript' on input line 470.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 462.
+(hyperref)                removing `math shift' on input line 470.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\norm' on input line 462.
+(hyperref)                removing `math shift' on input line 485.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 462.
+(hyperref)                removing `\norm' on input line 485.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\infty' on input line 462.
+(hyperref)                removing `subscript' on input line 485.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 462.
+(hyperref)                removing `\infty' on input line 485.
 
-[12 <./figs/pblm4_L_bode.png>]
-Overfull \hbox (51.17747pt too wide) detected at line 492
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 485.
+
+[13 <./figs/pblm4_L_bode.png>]
+Overfull \hbox (51.17747pt too wide) detected at line 515
 \OML/cmm/m/it/10 S\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 T\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 ) = []
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 522.
+(hyperref)                removing `math shift' on input line 545.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\alpha' on input line 522.
+(hyperref)                removing `\alpha' on input line 545.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 522.
+(hyperref)                removing `math shift' on input line 545.
 
-[13] [14]
-<MECH6323_HW02.pdf, id=297, 614.295pt x 794.97pt>
+[14] [15]
+<MECH6323_HW02.pdf, id=311, 614.295pt x 794.97pt>
 File: MECH6323_HW02.pdf Graphic file (type pdf)
 <use MECH6323_HW02.pdf>
-Package pdftex.def Info: MECH6323_HW02.pdf  used on input line 563.
+Package pdftex.def Info: MECH6323_HW02.pdf  used on input line 586.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
 <use MECH6323_HW02.pdf>
-Package pdftex.def Info: MECH6323_HW02.pdf  used on input line 563.
+Package pdftex.def Info: MECH6323_HW02.pdf  used on input line 586.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<MECH6323_HW02.pdf, id=300, page=1, 614.295pt x 794.97pt>
+<MECH6323_HW02.pdf, id=314, page=1, 614.295pt x 794.97pt>
 File: MECH6323_HW02.pdf Graphic file (type pdf)
 <use MECH6323_HW02.pdf, page 1>
-Package pdftex.def Info: MECH6323_HW02.pdf , page1 used on input line 563.
+Package pdftex.def Info: MECH6323_HW02.pdf , page1 used on input line 586.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
 <use MECH6323_HW02.pdf, page 1>
-Package pdftex.def Info: MECH6323_HW02.pdf , page1 used on input line 563.
+Package pdftex.def Info: MECH6323_HW02.pdf , page1 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [15]
+ [16]
 File: MECH6323_HW02.pdf Graphic file (type pdf)
 <use MECH6323_HW02.pdf, page 1>
-Package pdftex.def Info: MECH6323_HW02.pdf , page1 used on input line 563.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 1>
-Package pdftex.def Info: MECH6323_HW02.pdf , page1 used on input line 563.
+Package pdftex.def Info: MECH6323_HW02.pdf , page1 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
 <use MECH6323_HW02.pdf, page 1>
-Package pdftex.def Info: MECH6323_HW02.pdf , page1 used on input line 563.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [16 <./MECH6323_HW02.pdf>]
-<MECH6323_HW02.pdf, id=349, page=2, 614.295pt x 794.97pt>
-File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 2>
-Package pdftex.def Info: MECH6323_HW02.pdf , page2 used on input line 563.
+Package pdftex.def Info: MECH6323_HW02.pdf , page1 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 2>
-Package pdftex.def Info: MECH6323_HW02.pdf , page2 used on input line 563.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 2>
-Package pdftex.def Info: MECH6323_HW02.pdf , page2 used on input line 563.
+<use MECH6323_HW02.pdf, page 1>
+Package pdftex.def Info: MECH6323_HW02.pdf , page1 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [17 <./MECH6323_HW02.pdf>]
-<MECH6323_HW02.pdf, id=354, page=3, 614.295pt x 794.97pt>
+<MECH6323_HW02.pdf, id=363, page=2, 614.295pt x 794.97pt>
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 3>
-Package pdftex.def Info: MECH6323_HW02.pdf , page3 used on input line 563.
+<use MECH6323_HW02.pdf, page 2>
+Package pdftex.def Info: MECH6323_HW02.pdf , page2 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 3>
-Package pdftex.def Info: MECH6323_HW02.pdf , page3 used on input line 563.
+<use MECH6323_HW02.pdf, page 2>
+Package pdftex.def Info: MECH6323_HW02.pdf , page2 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 3>
-Package pdftex.def Info: MECH6323_HW02.pdf , page3 used on input line 563.
+<use MECH6323_HW02.pdf, page 2>
+Package pdftex.def Info: MECH6323_HW02.pdf , page2 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [18 <./MECH6323_HW02.pdf>]
-<MECH6323_HW02.pdf, id=359, page=4, 614.295pt x 794.97pt>
+<MECH6323_HW02.pdf, id=368, page=3, 614.295pt x 794.97pt>
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 4>
-Package pdftex.def Info: MECH6323_HW02.pdf , page4 used on input line 563.
+<use MECH6323_HW02.pdf, page 3>
+Package pdftex.def Info: MECH6323_HW02.pdf , page3 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 4>
-Package pdftex.def Info: MECH6323_HW02.pdf , page4 used on input line 563.
+<use MECH6323_HW02.pdf, page 3>
+Package pdftex.def Info: MECH6323_HW02.pdf , page3 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 4>
-Package pdftex.def Info: MECH6323_HW02.pdf , page4 used on input line 563.
+<use MECH6323_HW02.pdf, page 3>
+Package pdftex.def Info: MECH6323_HW02.pdf , page3 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [19 <./MECH6323_HW02.pdf>]
-<MECH6323_HW02.pdf, id=365, page=5, 614.295pt x 794.97pt>
+<MECH6323_HW02.pdf, id=374, page=4, 614.295pt x 794.97pt>
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 5>
-Package pdftex.def Info: MECH6323_HW02.pdf , page5 used on input line 563.
+<use MECH6323_HW02.pdf, page 4>
+Package pdftex.def Info: MECH6323_HW02.pdf , page4 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 5>
-Package pdftex.def Info: MECH6323_HW02.pdf , page5 used on input line 563.
+<use MECH6323_HW02.pdf, page 4>
+Package pdftex.def Info: MECH6323_HW02.pdf , page4 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 5>
-Package pdftex.def Info: MECH6323_HW02.pdf , page5 used on input line 563.
+<use MECH6323_HW02.pdf, page 4>
+Package pdftex.def Info: MECH6323_HW02.pdf , page4 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [20 <./MECH6323_HW02.pdf>]
-<MECH6323_HW02.pdf, id=370, page=6, 614.295pt x 794.97pt>
+<MECH6323_HW02.pdf, id=379, page=5, 614.295pt x 794.97pt>
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 6>
-Package pdftex.def Info: MECH6323_HW02.pdf , page6 used on input line 563.
+<use MECH6323_HW02.pdf, page 5>
+Package pdftex.def Info: MECH6323_HW02.pdf , page5 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 6>
-Package pdftex.def Info: MECH6323_HW02.pdf , page6 used on input line 563.
+<use MECH6323_HW02.pdf, page 5>
+Package pdftex.def Info: MECH6323_HW02.pdf , page5 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 6>
-Package pdftex.def Info: MECH6323_HW02.pdf , page6 used on input line 563.
+<use MECH6323_HW02.pdf, page 5>
+Package pdftex.def Info: MECH6323_HW02.pdf , page5 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [21 <./MECH6323_HW02.pdf>]
-<MECH6323_HW02.pdf, id=375, page=7, 614.295pt x 794.97pt>
+<MECH6323_HW02.pdf, id=384, page=6, 614.295pt x 794.97pt>
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 7>
-Package pdftex.def Info: MECH6323_HW02.pdf , page7 used on input line 563.
+<use MECH6323_HW02.pdf, page 6>
+Package pdftex.def Info: MECH6323_HW02.pdf , page6 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 7>
-Package pdftex.def Info: MECH6323_HW02.pdf , page7 used on input line 563.
+<use MECH6323_HW02.pdf, page 6>
+Package pdftex.def Info: MECH6323_HW02.pdf , page6 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 7>
-Package pdftex.def Info: MECH6323_HW02.pdf , page7 used on input line 563.
+<use MECH6323_HW02.pdf, page 6>
+Package pdftex.def Info: MECH6323_HW02.pdf , page6 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [22 <./MECH6323_HW02.pdf>]
-<MECH6323_HW02.pdf, id=380, page=8, 614.295pt x 794.97pt>
+<MECH6323_HW02.pdf, id=389, page=7, 614.295pt x 794.97pt>
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 8>
-Package pdftex.def Info: MECH6323_HW02.pdf , page8 used on input line 563.
+<use MECH6323_HW02.pdf, page 7>
+Package pdftex.def Info: MECH6323_HW02.pdf , page7 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 8>
-Package pdftex.def Info: MECH6323_HW02.pdf , page8 used on input line 563.
+<use MECH6323_HW02.pdf, page 7>
+Package pdftex.def Info: MECH6323_HW02.pdf , page7 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 8>
-Package pdftex.def Info: MECH6323_HW02.pdf , page8 used on input line 563.
+<use MECH6323_HW02.pdf, page 7>
+Package pdftex.def Info: MECH6323_HW02.pdf , page7 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [23 <./MECH6323_HW02.pdf>]
-<MECH6323_HW02.pdf, id=385, page=9, 614.295pt x 794.97pt>
+<MECH6323_HW02.pdf, id=394, page=8, 614.295pt x 794.97pt>
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 9>
-Package pdftex.def Info: MECH6323_HW02.pdf , page9 used on input line 563.
+<use MECH6323_HW02.pdf, page 8>
+Package pdftex.def Info: MECH6323_HW02.pdf , page8 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 9>
-Package pdftex.def Info: MECH6323_HW02.pdf , page9 used on input line 563.
+<use MECH6323_HW02.pdf, page 8>
+Package pdftex.def Info: MECH6323_HW02.pdf , page8 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 9>
-Package pdftex.def Info: MECH6323_HW02.pdf , page9 used on input line 563.
+<use MECH6323_HW02.pdf, page 8>
+Package pdftex.def Info: MECH6323_HW02.pdf , page8 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [24 <./MECH6323_HW02.pdf>]
-<MECH6323_HW02.pdf, id=390, page=10, 614.295pt x 794.97pt>
+<MECH6323_HW02.pdf, id=399, page=9, 614.295pt x 794.97pt>
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 10>
-Package pdftex.def Info: MECH6323_HW02.pdf , page10 used on input line 563.
+<use MECH6323_HW02.pdf, page 9>
+Package pdftex.def Info: MECH6323_HW02.pdf , page9 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 10>
-Package pdftex.def Info: MECH6323_HW02.pdf , page10 used on input line 563.
+<use MECH6323_HW02.pdf, page 9>
+Package pdftex.def Info: MECH6323_HW02.pdf , page9 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
-<use MECH6323_HW02.pdf, page 10>
-Package pdftex.def Info: MECH6323_HW02.pdf , page10 used on input line 563.
+<use MECH6323_HW02.pdf, page 9>
+Package pdftex.def Info: MECH6323_HW02.pdf , page9 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [25 <./MECH6323_HW02.pdf>]
-<MECH6323_HW02.pdf, id=396, page=11, 614.295pt x 794.97pt>
+<MECH6323_HW02.pdf, id=405, page=10, 614.295pt x 794.97pt>
+File: MECH6323_HW02.pdf Graphic file (type pdf)
+<use MECH6323_HW02.pdf, page 10>
+Package pdftex.def Info: MECH6323_HW02.pdf , page10 used on input line 586.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MECH6323_HW02.pdf Graphic file (type pdf)
+<use MECH6323_HW02.pdf, page 10>
+Package pdftex.def Info: MECH6323_HW02.pdf , page10 used on input line 586.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MECH6323_HW02.pdf Graphic file (type pdf)
+<use MECH6323_HW02.pdf, page 10>
+Package pdftex.def Info: MECH6323_HW02.pdf , page10 used on input line 586.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [26 <./MECH6323_HW02.pdf>]
+<MECH6323_HW02.pdf, id=410, page=11, 614.295pt x 794.97pt>
 File: MECH6323_HW02.pdf Graphic file (type pdf)
 <use MECH6323_HW02.pdf, page 11>
-Package pdftex.def Info: MECH6323_HW02.pdf , page11 used on input line 563.
+Package pdftex.def Info: MECH6323_HW02.pdf , page11 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
 <use MECH6323_HW02.pdf, page 11>
-Package pdftex.def Info: MECH6323_HW02.pdf , page11 used on input line 563.
+Package pdftex.def Info: MECH6323_HW02.pdf , page11 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MECH6323_HW02.pdf Graphic file (type pdf)
 <use MECH6323_HW02.pdf, page 11>
-Package pdftex.def Info: MECH6323_HW02.pdf , page11 used on input line 563.
+Package pdftex.def Info: MECH6323_HW02.pdf , page11 used on input line 586.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [26 <./MECH6323_HW02.pdf>] (./MECH6323-HW02.aux)
+ [27 <./MECH6323_HW02.pdf>] (./MECH6323-HW02.aux)
 Package rerunfilecheck Info: File `MECH6323-HW02.out' has not changed.
-(rerunfilecheck)             Checksum: 72A1110BF5E9EBC41B1C7439325D9C32;3508.
+(rerunfilecheck)             Checksum: 5FF502480EE3D918FFC5270AD165FA5A;3695.
  ) 
 Here is how much of TeX's memory you used:
- 13876 strings out of 478599
- 202580 string characters out of 5858102
- 538603 words of memory out of 5000000
- 31430 multiletter control sequences out of 15000+600000
+ 13881 strings out of 478599
+ 202647 string characters out of 5858102
+ 539603 words of memory out of 5000000
+ 31432 multiletter control sequences out of 15000+600000
  411639 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,17n,81p,447b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on MECH6323-HW02.pdf (26 pages, 2657403 bytes).
+Output written on MECH6323-HW02.pdf (27 pages, 2659321 bytes).
 PDF statistics:
- 497 PDF objects out of 1000 (max. 8388607)
- 393 compressed objects within 4 object streams
- 121 named destinations out of 1000 (max. 500000)
- 337 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 512 PDF objects out of 1000 (max. 8388607)
+ 406 compressed objects within 5 object streams
+ 124 named destinations out of 1000 (max. 500000)
+ 353 words of extra memory for PDF output out of 10000 (max. 10000000)
 

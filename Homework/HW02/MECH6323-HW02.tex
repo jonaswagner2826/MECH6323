@@ -38,34 +38,57 @@ Consider the negative feedback interconnection:
 	\centering
 	\includegraphics[width=0.5\textwidth]{figs/pblm1.png}
 \end{figure}
-\subsection{}
+
+\subsection{(a)}
 \textbf{Problem:} 
 If possible, give an example of $P$ and $C$ transfer functions such that $\frac{1}{1+PC}$ and $\frac{P}{1+PC}$ are stable, but $\frac{C}{1+PC}$ is not.
 
 \textbf{Solution:}
 \[
-	P(s) = 
+	P(s) = (s+1) (s-1)
 \]\[
-	C(s) = 
+	C(s) = \frac{1}{(s-1)}
 \]
-These then produces the following stable transfer functions:
+These then produces the two following stable transfer functions:
 \[
-	\frac{1}{1+PC} = 
+	\frac{1}{1+PC} = \frac{1}{s+2}
 \]\[
-	\frac{P}{1+PC} = 
+	\frac{P}{1+PC} = \frac{(s+1)(s-1)}{(s+2)}
 \]
 However, then this transfer function is unstable:
 \[
-	\frac{C}{1+PC} = 
+	\frac{C}{1+PC} = \frac{1}{(s-1)(s+2)}
 \]
 
+\subsection{(b)}
+\textbf{Problem:} 
+If possible, give an example of $P$ and $C$ transfer functions such that $\frac{P}{1+PC}$ and $\frac{C}{1+PC}$ are stable, but $\frac{1}{1+PC}$ is not.
 
+\textbf{Solution:}
+This is imposable to do for just a Transfer Function if assuming that pole-zero cancellations on the right-half plane are legitimate.
+If this is not the case, there are a myriad of cases in which this would be possible to construct a case where $1+PC$ is unstable and this is due to cancellations that exist in the right-half plane, but this simple solution is not true under the previous assumption.
 
+\newpage
+\subsection{(c)}
+\textbf{Problem:} 
+If possible, give an example of $P$ and $C$ transfer functions such that $\frac{1}{1+PC}$ and $\frac{C}{1+PC}$ are stable, but $\frac{P}{1+PC}$ is not.
 
-
-
-
-
+\textbf{Solution:}
+\[
+	P(s) = \frac{1}{(s-1)}
+\]\[
+	C(s) = (s+1) (s-1)
+\]
+These then produces the two following stable transfer functions:
+\[
+	\frac{1}{1+PC} = \frac{1}{s+2}
+\]\[
+	\frac{C}{1+PC} = \frac{(s+1)(s-1)}{(s+2)}
+\]
+However, then this transfer function is unstable:
+\[
+	\frac{P}{1+PC} = \frac{1}{(s-1)(s+2)}
+\]
 
 
 \newpage
