@@ -1,9 +1,10 @@
 # Fdb version 3
-["pdflatex"] 1644833125 "c:/Users/Jonas/OneDrive - The University of Texas at Dallas/2022_Spring/MECH6323/Homework/HW02/MECH6323-HW02.tex" "MECH6323-HW02.pdf" "MECH6323-HW02" 1644833127
-  "MECH6323-HW02.aux" 1644833127 3109 c7991ba4e3480195df94774314b7fcb0 "pdflatex"
-  "MECH6323-HW02.out" 1644833127 2463 42cfe0888e53d09d90dd0fd9dac7e066 "pdflatex"
-  "MECH6323-HW02.tex" 1644833123 6661 ff0467cfce74cd75423629b3ac3449da ""
-  "c:/Users/Jonas/OneDrive - The University of Texas at Dallas/2022_Spring/MECH6323/Homework/HW02/MECH6323-HW02.tex" 1644833123 6661 ff0467cfce74cd75423629b3ac3449da ""
+["pdflatex"] 1644836209 "c:/Users/Jonas/OneDrive - The University of Texas at Dallas/2022_Spring/MECH6323/Homework/HW02/MECH6323-HW02.tex" "MECH6323-HW02.pdf" "MECH6323-HW02" 1644836239
+  "MECH6323-HW02.aux" 1644836211 3476 c2915aecef6cf9611d371263a628e5d2 "pdflatex"
+  "MECH6323-HW02.out" 1644836211 2876 cd60c88426b56c05e8d4ca40479fc4a1 "pdflatex"
+  "MECH6323-HW02.tex" 1644836207 8885 14dd25e0929c69649c6ea1948e47bde4 ""
+  "MECH6323-HW02.toc" 1644836211 1648 b6b5bd8616fdff6ef466252f5490cbb1 "pdflatex"
+  "c:/Users/Jonas/OneDrive - The University of Texas at Dallas/2022_Spring/MECH6323/Homework/HW02/MECH6323-HW02.tex" 1644836207 8885 14dd25e0929c69649c6ea1948e47bde4 ""
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1630536755 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1630534826 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1630534826 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -117,6 +118,7 @@
   "figs/pblm4_L_bode.png" 1644830863 31069 57169327f202acaea500cd9ed6f2e11a ""
   (generated)
   "MECH6323-HW02.pdf"
-  "MECH6323-HW02.aux"
-  "MECH6323-HW02.log"
+  "MECH6323-HW02.toc"
   "MECH6323-HW02.out"
+  "MECH6323-HW02.log"
+  "MECH6323-HW02.aux"

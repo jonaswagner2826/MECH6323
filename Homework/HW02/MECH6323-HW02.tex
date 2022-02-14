@@ -19,24 +19,25 @@
 \allowdisplaybreaks
 
 %opening
-\title{MECH 6323 - HW 1}
+\title{MECH 6323 - HW 2}
 \author{Jonas Wagner}
-\date{2022, January 24}
+\date{2022, Febuary 14}
 
 \begin{document}	
 
 \maketitle
 
-% \tableofcontents
+\tableofcontents
 
 %----------------------------------------------------------------------------
-% \newpage
+\newpage
 \section{Problem 1}
 
 
 
 
-
+\newpage
+\section{Problem 2}
 
 
 
@@ -51,7 +52,7 @@ For each of the bode plots:
 \end{enumerate}
 
 \subsection{Bode Plot 1:}
-\begin{figure}[h]
+\begin{figure}[ht]
 	\centering
 	\includegraphics[width=0.5\textwidth]{figs/pblm3a.jpg}
 \end{figure}
@@ -84,7 +85,7 @@ For each of the bode plots:
 
 \newpage
 \subsection{Bode Plot 2:}
-\begin{figure}[h]
+\begin{figure}[ht]
 	\centering
 	\includegraphics[width=0.5\textwidth]{figs/pblm3b.jpg}
 	\caption{Bode Plot 2}
@@ -163,7 +164,7 @@ Use the Bode plot of the open loop transfer function $L(s) = C(s)P(s)$ to find t
 Use this information to compute the gain margin(s) of the feedback system. 
 Check your answers using the \emph{allmargin} command in MATLAB.
 
-\begin{figure}[h]\label{fig:pblm4b}
+\begin{figure}[ht]\label{fig:pblm4b}
 	\centering
 	\includegraphics[width=0.7\textwidth]{figs/pblm4_L_bode.png}
 	\caption{Open Loop Bode Plot of $L(S) = C(s) P(s)$}
@@ -229,8 +230,75 @@ Compute $\norm{S-T}_\infty$ and the corresponding frequency $\omega_{p}$ where t
 
 \textbf{Solution:} 
 
+Sensitivity TF: \[
+	S(s) = \frac{1}{1+PC}
+		= \cfrac{
+			s (s-3) (s^2 + 50s + 1000)
+		}{
+			(s^2 + 11.73s + 73.9) (s^2 + 30.27s + 406)
+		}
+\]
 
+Complementary Sensitivity TF: \[
+	T(s) = \frac{PC}{1+PC}
+		= \cfrac{
+			-5 s (s-44.72) (s+44.72) (s+3) (s-3) (s^2 + 50s + 1000)
+		}{
+			s (s-3) (s^2 + 11.73s + 73.9) (s^2 + 30.27s + 406) (s^2 + 50s + 1000)
+		}
+\]
 
+$S(s)-T(s)$: \[
+	S(s)-T(s) = \cfrac{
+		s (s-10.45) (s-3) (s+2.059) (s^2 + 11.73s + 73.9) (s^2 + 30.27s + 406) (s^2 + 50s + 1000) (s^2 + 60.4s + 1394)
+		}{
+			s (s-3) (s^2 + 11.73s + 73.9)^2 (s^2 + 30.27s + 406)^2 (s^2 + 50s + 1000)
+		}
+\]\[
+	= \cfrac{
+		(s-10.45) (s+2.059) (s^2 + 60.4s + 1394)
+		}{
+			(s^2 + 11.73s + 73.9) (s^2 + 30.27s + 406)
+		}
+\]
+
+Results:\[
+	\norm{S-T}_\infty = 4.0763
+\]\[
+	\omega_{p} = 10.0798
+\]
+
+\subsection{Symmetric Disk Margin}
+\textbf{Problem:}
+What is the symmetric disk margin m for this plant and controller? 
+Verify your answer using \emph{dm = diskmargin(P*C)}. 
+Note that the \emph{diskmargin} command uses the convention \emph{m = dm.DiskMargin / 2}.
+
+\textbf{Solution:}
+By the Symmetric Disk Margin theorem, the disk margin defined for \[
+	\alpha \in \text{Disk}\qty(\frac{1-m}{1+m},\frac{1+m}{1-m})
+\] is the region that $C(s)$ stabilizes $\alpha P(s)$ for $m < 1$ satisfying\[
+	\norm{S-T}_\infty \leq \frac{1}{m}
+\] Therefore, \[
+	\overline{m}_{st} = \cfrac{1}{\norm{S-T}_\infty} 
+	= \cfrac{1}{4.0763} = 0.453
+\]
+
+\subsection{$\alpha$ on Disk boundary}
+\textbf{Problem:}
+Construct an $\alpha$ on the boundary of Disk \[
+	\text{Disk}\qty(\frac{1-m}{1+m},\frac{1+m}{1-m})
+\] such that the perturbed closed-loop \[
+	S_\alpha = \frac{1}{1 + \alpha L(s)}
+\] has a pole at $j\omega_p$. 
+Verify your construction by forming $S_\alpha$ and demonstrating that it has a pole at $j \omega_p$.
+Hint: Assume $\norm{S-T}_\infty = \frac{1}{m}$ at frequency $\omega_p$. 
+Then there exists a complex number $S(j\omega_p) - T(j\omega_p) = \frac{1}{z}$ where $\abs{z} = m$.
+Algebraically show that \[
+	\alpha = \frac{1 + z}{1-z}
+\] satisfies $1 + \alpha L(j\omega_p) = 0$ and this $\alpha$ is in the symmetric disk defined by $m$.
+
+\textbf{Solution:}
 
 
 
