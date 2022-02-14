@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.1)  14 FEB 2022 04:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.1)  14 FEB 2022 07:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -444,57 +444,34 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
  [1
 
-{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-<figs/pblm3a.jpg, id=122, 369.89545pt x 312.03061pt>
+{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<figs/pblm1.png, id=124, 582.67688pt x 154.07562pt>
+File: figs/pblm1.png Graphic file (type png)
+<use figs/pblm1.png>
+Package pdftex.def Info: figs/pblm1.png  used on input line 38.
+(pdftex.def)             Requested size: 234.8775pt x 62.1064pt.
+ [2 <./figs/pblm1.png>] [3]
+<figs/pblm3a.jpg, id=136, 369.89545pt x 312.03061pt>
 File: figs/pblm3a.jpg Graphic file (type jpg)
 <use figs/pblm3a.jpg>
-Package pdftex.def Info: figs/pblm3a.jpg  used on input line 57.
+Package pdftex.def Info: figs/pblm3a.jpg  used on input line 88.
 (pdftex.def)             Requested size: 234.8775pt x 198.13246pt.
  [4 <./figs/pblm3a.jpg>]
-<figs/pblm3b.jpg, id=139, 369.89545pt x 312.03061pt>
+<figs/pblm3b.jpg, id=152, 369.89545pt x 312.03061pt>
 File: figs/pblm3b.jpg Graphic file (type jpg)
 <use figs/pblm3b.jpg>
-Package pdftex.def Info: figs/pblm3b.jpg  used on input line 90.
+Package pdftex.def Info: figs/pblm3b.jpg  used on input line 121.
 (pdftex.def)             Requested size: 234.8775pt x 198.13246pt.
  [5 <./figs/pblm3b.jpg>]
-<figs/pblm4_L_bode.png, id=154, 632.3625pt x 474.27188pt>
+<figs/pblm4_L_bode.png, id=167, 632.3625pt x 474.27188pt>
 File: figs/pblm4_L_bode.png Graphic file (type png)
 <use figs/pblm4_L_bode.png>
-Package pdftex.def Info: figs/pblm4_L_bode.png  used on input line 169.
+Package pdftex.def Info: figs/pblm4_L_bode.png  used on input line 200.
 (pdftex.def)             Requested size: 328.82707pt x 246.62279pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 196.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 196.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 196.
-
-[6]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 212.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 212.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 212.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 227.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\norm' on input line 227.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -502,46 +479,75 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\infty' on input line 227.
+(hyperref)                removing `math shift' on input line 227.
+
+[6]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 243.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 227.
+(hyperref)                removing `subscript' on input line 243.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 243.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 258.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\norm' on input line 258.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 258.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\infty' on input line 258.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 258.
 
 [7 <./figs/pblm4_L_bode.png>]
-Overfull \hbox (51.17747pt too wide) detected at line 257
+Overfull \hbox (51.17747pt too wide) detected at line 288
 \OML/cmm/m/it/10 S\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 T\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 ) = []
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 287.
+(hyperref)                removing `math shift' on input line 318.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\alpha' on input line 287.
+(hyperref)                removing `\alpha' on input line 318.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 287.
+(hyperref)                removing `math shift' on input line 318.
 
-[8] (./MECH6323-HW02.aux)
+[8] [9] [10] (./MECH6323-HW02.aux)
 Package rerunfilecheck Info: File `MECH6323-HW02.out' has not changed.
-(rerunfilecheck)             Checksum: CD60C88426B56C05E8D4CA40479FC4A1;2876.
+(rerunfilecheck)             Checksum: F0043C7A80B20B319147B56DEE0BCBF1;3034.
  ) 
 Here is how much of TeX's memory you used:
- 12989 strings out of 478599
- 187998 string characters out of 5858102
- 521307 words of memory out of 5000000
- 30641 multiletter control sequences out of 15000+600000
+ 13003 strings out of 478599
+ 188199 string characters out of 5858102
+ 522345 words of memory out of 5000000
+ 30650 multiletter control sequences out of 15000+600000
  411639 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,11n,81p,447b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on MECH6323-HW02.pdf (8 pages, 1267647 bytes).
+<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on MECH6323-HW02.pdf (10 pages, 1303534 bytes).
 PDF statistics:
- 252 PDF objects out of 1000 (max. 8388607)
- 208 compressed objects within 3 object streams
- 54 named destinations out of 1000 (max. 500000)
- 168 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 285 PDF objects out of 1000 (max. 8388607)
+ 233 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
+ 189 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -10,7 +10,7 @@
 \usepackage{hyperref}
 \usepackage{empheq}
 
-% MATLAB Formating Code
+% MATLAB Formatting Code
 \usepackage[numbered,framed]{matlab-prettifier}
 \lstset{style=Matlab-editor,columns=fullflexible}
 \renewcommand{\lstlistingname}{Script}
@@ -32,6 +32,37 @@
 %----------------------------------------------------------------------------
 \newpage
 \section{Problem 1}
+Consider the negative feedback interconnection:
+\begin{figure}[ht]
+	\centering
+	\includegraphics[width=0.5\textwidth]{figs/pblm1.png}
+\end{figure}
+\subsection{}
+\textbf{Problem:} 
+If possible, give an example of $P$ and $C$ transfer functions such that $\frac{1}{1+PC}$ and $\frac{P}{1+PC}$ are stable, but $\frac{C}{1+PC}$ is not.
+
+\textbf{Solution:}
+\[
+	P(s) = 
+\]\[
+	C(s) = 
+\]
+These then produces the following stable transfer functions:
+\[
+	\frac{1}{1+PC} = 
+\]\[
+	\frac{P}{1+PC} = 
+\]
+However, then this transfer function is unstable:
+\[
+	\frac{C}{1+PC} = 
+\]
+
+
+
+
+
+
 
 
 
@@ -299,16 +330,30 @@ Algebraically show that \[
 \] satisfies $1 + \alpha L(j\omega_p) = 0$ and this $\alpha$ is in the symmetric disk defined by $m$.
 
 \textbf{Solution:}
+$\alpha$ can be constructed by first finding $z_0 = \frac{1}{S(j\omega_p)-T(j\omega_p)}$, 
+calculating $z = m * \frac{z_0}{\abs{z_0}}$, 
+and then finding $\alpha = \frac{1+z}{1-z}$.
+
+As demonstrated in MATLAB, this results in $\alpha = 0.8760 - j 0.4572$.
+This is then verified as
+\begin{align*}
+	1 + \alpha L(j\omega_p) 
+	&\approx (0.8760 - j 0.4572) \cfrac{
+			-5 (j 10.0798+3) (j 10.0798+44.72) (j 10.0798-44.72)
+		}{
+			(j 10.0798) (j 10.0798-3) ((j 10.0798^2 + 50(j 10.0798) + 1000)
+		}\\
+	&= -2.7529e-08 - j 1.2029e-06\\
+	&\approx 0
+\end{align*}
 
 
 
-
-
-% \newpage
-% \appendix
-% \section{MATLAB Code:}\label{apx:matlab}
-% All code I write in this course can be found on my GitHub repository:\\
-% \href{https://github.com/jonaswagner2826/MECH6313}{https://github.com/jonaswagner2826/MECH6313}
+\newpage
+\appendix
+\section{MATLAB Code:}\label{apx:matlab}
+All code I write in this course can be found on my GitHub repository:\\
+\href{https://github.com/jonaswagner2826/MECH6323}{https://github.com/jonaswagner2826/MECH6323}
 
 
 \end{document}
