@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.1)  13 FEB 2022 23:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.1)  14 FEB 2022 04:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -441,34 +441,89 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<figs/pblm3a.jpg, id=57, 369.89545pt x 312.03061pt>
+<figs/pblm3a.jpg, id=77, 369.89545pt x 312.03061pt>
 File: figs/pblm3a.jpg Graphic file (type jpg)
 <use figs/pblm3a.jpg>
 Package pdftex.def Info: figs/pblm3a.jpg  used on input line 56.
 (pdftex.def)             Requested size: 234.8775pt x 198.13246pt.
  [2 <./figs/pblm3a.jpg>]
-<figs/pblm3b.jpg, id=77, 369.89545pt x 312.03061pt>
+<figs/pblm3b.jpg, id=97, 369.89545pt x 312.03061pt>
 File: figs/pblm3b.jpg Graphic file (type jpg)
 <use figs/pblm3b.jpg>
 Package pdftex.def Info: figs/pblm3b.jpg  used on input line 89.
 (pdftex.def)             Requested size: 234.8775pt x 198.13246pt.
- [3 <./figs/pblm3b.jpg>] [4] (./MECH6323-HW02.aux)
+ [3 <./figs/pblm3b.jpg>]
+<figs/pblm4_L_bode.png, id=112, 632.3625pt x 474.27188pt>
+File: figs/pblm4_L_bode.png Graphic file (type png)
+<use figs/pblm4_L_bode.png>
+Package pdftex.def Info: figs/pblm4_L_bode.png  used on input line 168.
+(pdftex.def)             Requested size: 328.82707pt x 246.62279pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 195.
+
+[4]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 211.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 211.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 211.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 226.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\norm' on input line 226.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 226.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\infty' on input line 226.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 226.
+
+[5 <./figs/pblm4_L_bode.png>] (./MECH6323-HW02.aux)
 Package rerunfilecheck Info: File `MECH6323-HW02.out' has not changed.
-(rerunfilecheck)             Checksum: B3D0F250FD6648B4660E8DB463B6E6A9;1660.
+(rerunfilecheck)             Checksum: 42CFE0888E53D09D90DD0FD9DAC7E066;2463.
  ) 
 Here is how much of TeX's memory you used:
- 12945 strings out of 478599
- 187369 string characters out of 5858102
- 515237 words of memory out of 5000000
- 30622 multiletter control sequences out of 15000+600000
- 411293 words of font info for 58 fonts, out of 8000000 for 9000
+ 12973 strings out of 478599
+ 187798 string characters out of 5858102
+ 520307 words of memory out of 5000000
+ 30635 multiletter control sequences out of 15000+600000
+ 411639 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,9n,81p,447b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on MECH6323-HW02.pdf (4 pages, 1184546 bytes).
+ 71i,11n,81p,447b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on MECH6323-HW02.pdf (5 pages, 1253331 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
- 118 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 99 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 204 PDF objects out of 1000 (max. 8388607)
+ 164 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 500000)
+ 144 words of extra memory for PDF output out of 10000 (max. 10000000)
 

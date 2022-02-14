@@ -140,21 +140,94 @@ Consider the interconection of Problem 1 with the PI controller\[
 
 \subsection{Is the feedback system stable? Why?}
 \begin{align*}
-	1 + C(s) P(s) 
-		&= 1 + \cfrac{10 (s+3)}{s} \cfrac{-0.5(s^2 - 2000)}{(s-3)(s^2 + 50s + 1000)}\\
+	\cfrac{C(s) P(s)} {1 + C(s) P(s)}
 		&= \cfrac{
-			s (s-3) (s^2 + 50s + 1000) + 10 (s + 3) (-0.5) (s^2 - 2000)
+			\cfrac{10 (s+3)}{s} \cfrac{-0.5(s^2 - 2000)}{(s-3)(s^2 + 50s + 1000)}
 		}{
-			s (s-3) (s^2 + 50s + 1000)
+			1 + \cfrac{10 (s+3)}{s} \cfrac{-0.5(s^2 - 2000)}{(s-3)(s^2 + 50s + 1000)}
 		}\\
 		&\approx \cfrac{
-			(s^2 + 11.73s + 73.9) (s^2 + 30.27s + 406)
+			-5 s (s+3) (s-3) (s^2 - 2000) (s^2 + 50s + 1000)
 		}{
-			s (s-3) (s^2 + 50s + 1000)
+			s (s-3) (s^2 + 11.73s + 73.9) (s^2 + 30.27s + 406) (s^2 + 50s + 1000)
 		}
 \end{align*}
+Yes and No. 
+Internally it is not fully stable since it has a pole/zero pair at $s=3$;
+however, if we only care about TF after cancellations, then it is stable.
+
+\subsection{Find phase and cross-over frequencies.}
+
+\textbf{Problem:}
+Use the Bode plot of the open loop transfer function $L(s) = C(s)P(s)$ to find the phase cross-over frequencies $\omega_0$ such that $L(j\omega_0) = 180\deg$. 
+Use this information to compute the gain margin(s) of the feedback system. 
+Check your answers using the \emph{allmargin} command in MATLAB.
+
+\begin{figure}[h]\label{fig:pblm4b}
+	\centering
+	\includegraphics[width=0.7\textwidth]{figs/pblm4_L_bode.png}
+	\caption{Open Loop Bode Plot of $L(S) = C(s) P(s)$}
+\end{figure}
+
+\textbf{Solution:}
+As marked in the Bode Plot seen in \figurename \ \ref{fig:pblm4b}, 
+the gain cross-over frequency is $\omega_{c} = 10$ resulting in a phase margin around $25\deg$.
+Similarly, the phase cross-over occurs around $\omega_{180} = 4$ or $\omega_{180} = 25$, resulting in gain margins of around $\pm 10$ dB or around $g_0 = 0.3$ and $g_0 = 3$ respectively.
+
+Verification with \emph{allmargin} resulted in similar and likely more precise and accurate results:
+\begin{enumerate}
+	\item Gain Margin(s)
+	\begin{enumerate}
+		\item $g_0 = 0.3585$ at $\omega_{180} =  3.5966$
+		\item $g_0 = 2.6490$ at $\omega_{180} = 26.3797$
+	\end{enumerate}
+	\item Phase Margin
+	\begin{enumerate}
+		\item $PM = 27.5718$ at $\omega_{c} = 10.2049$
+	\end{enumerate}
+\end{enumerate}
+
+\subsection{Gain Margin Closed-loop poles}
+\textbf{Problem:} 
+For each gain margin $g_0$ obtained in the previous part, construct the closed-loop using the perturbed loop transfer function $g_0 L(s)$ and verify that the closed-loop has poles at $\pm \omega_0$.
+
+\textbf{Solution:}
+\subsubsection{$g_0 = 0.3585$}
+Let $g_0 = 0.3585$, \[
+	g_0 L(s) =  \cfrac{
+		-1.7927 (s+3) (s+44.72) (s-44.72)
+	}{
+	   s (s-3) (s^2 + 50s + 1000)
+	}
+\] and the closed-loop becomes \[
+	H = \cfrac{ 
+          -1.7927 (s-44.72) (s+44.72) (s+3)
+	}{
+		(s^2 + 0.0008164s + 12.93) (s^2 + 45.21s + 831.7)
+	}
+\] This has complex poles located at $-0.0004 \pm j 3.596$, which is essentially roots at $\pm j \omega_{180}$.
 
 
+\subsubsection{$g_0 = 2.6490$}
+Let $g_0 = 2.6490$, \[
+	g_0 L(s) =  \cfrac{
+		-13.245 (s+3) (s+44.72) (s-44.72)
+	}{
+	   s (s-3) (s^2 + 50s + 1000)
+	}
+\] and the closed-loop becomes \[
+	H = \cfrac{ 
+		-13.245 (s+3) (s+44.72) (s-44.72)
+	}{
+		(s+29.94) (s+3.814) (s^2 + 0.003402s + 696)
+	}
+\] This has complex poles located at $-0.0017 \pm j 26.3818$, which is essentially roots at $\pm j \omega_{180}$.
+
+\subsection{$\norm{S-T}_\infty$}
+\textbf{Problem:}
+Compute $\norm{S-T}_\infty$ and the corresponding frequency $\omega_{p}$ where the peak gain of $S-T$ is achieved.
+
+\textbf{Solution:} 
 
 
 
