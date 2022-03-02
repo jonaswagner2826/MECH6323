@@ -238,11 +238,26 @@ Conversely, show that if $\norm{y}_2 > \norm{x}_2$, then there is no $\Delta \in
                 = \sup_{x \neq 0} \cfrac{\norm{\Delta x}_2}{\norm{x}_2}
         \] Then in order for $\overline{\sigma(\Delta)}\leq 1$, \begin{align*}
             1 \geq \overline{\sigma}(\Delta) 
-                = \norm{\Delta}_{2\to2}\\
+                &= \norm{\Delta}_{2\to2}\\
                 &= \sup_{x \neq 0} \cfrac{\norm{\Delta x}_2}{\norm{x}_2}\\
-                &= \sup_{x \neq 0} \cfrac{\norm{\cfrac{y x^*}{\norm{x}_2^2} x}_2}{x^* x}\\
-                % 
+                &= \sup_{x \neq 0} \cfrac{\norm{\cfrac{y x^*}{\norm{x}_2^2} x}_2}{\norm{x}_2}\\
+            \qty(1)^2
+                &\geq \qty(\sup_{x \neq 0} \cfrac{\norm{\cfrac{y x^*}{\norm{x}_2^2} x}_2}{\norm{x}_2})^2\\
+            1   
+                &\geq \sup_{x \neq 0} \cfrac{\norm{\cfrac{y x^*}{\norm{x}_2^2}x}_2^2}{\norm{x}_2^2}\\
+                &= \sup_{x \neq 0} \cfrac{
+                    \qty(\cfrac{y x^*}{\norm{x}_2^2}x)^* \qty(\cfrac{y x^*}{\norm{x}_2^2}x)
+                    }{\norm{x}_2^2}\\
+                &= \sup_{x \neq 0} \cfrac{x^* \cfrac{x y^* y x^*}{\norm{x}_2^4} x
+                    }{\norm{x}_2^2}\\
+                &= \sup_{x \neq 0} \cfrac{x^* x y^* y x^* x}{\norm{x}_2^6}\\
+                &= \sup_{x \neq 0} \cfrac{\norm{x}_2^2 \norm{y}_2^2 \norm{x}_2^2}{\norm{x}_2^6}\\
+                &= \sup_{x \neq 0} \cfrac{\norm{y}_2^2}{\norm{x}_2^2}\\
+            \Aboxed{
+                1 &\geq \sup_{x \neq 0} \cfrac{\norm{y}_2}{\norm{x}_2}
+            }
         \end{align*}
+        Clearly this is true if and only if $\norm{y}_2 \leq \norm{x}_2$.
     \end{proof}
 \end{theorem}
 
@@ -250,7 +265,8 @@ Conversely, show that if $\norm{y}_2 > \norm{x}_2$, then there is no $\Delta \in
 %----- Problem 2 -----------------------------------------------------------------------
 % \newpage
 \section{Problem 2}
-See attached MATLAB .mlx script (and pdf version in appendix)
+See attached MATLAB .mlx script.
+\includepdf[pages=-]{MECH6323_HW03.pdf}
 
 %----- Problem 3 -----------------------------------------------------------------------
 \newpage
@@ -300,7 +316,7 @@ See attached.
 Additionally, all the code I write in this course can be found on my GitHub repository:\\
 \href{https://github.com/jonaswagner2826/MECH6323}{https://github.com/jonaswagner2826/MECH6323}
 
-% \includepdf[pages=-]{MECH6323_HW02.pdf}
+
 
 
 

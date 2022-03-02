@@ -1,10 +1,11 @@
 # Fdb version 3
-["pdflatex"] 1646194841 "c:/Users/Jonas/OneDrive - The University of Texas at Dallas/2022_Spring/MECH6323/Homework/HW03/MECH6323-HW03.tex" "MECH6323-HW03.pdf" "MECH6323-HW03" 1646194843
-  "MECH6323-HW03.aux" 1646194843 1600 fede71adebc0645d8c4e3a75a67568b5 "pdflatex"
-  "MECH6323-HW03.out" 1646194843 576 e3037e3eecffa755c0c7316ea2e4b200 "pdflatex"
-  "MECH6323-HW03.tex" 1646194836 12292 b8c3bfb3c27e3ad67959fc819515eff1 ""
-  "MECH6323-HW03.toc" 1646194843 528 dfecfb93e643190af16a30df2b8d4763 "pdflatex"
-  "c:/Users/Jonas/OneDrive - The University of Texas at Dallas/2022_Spring/MECH6323/Homework/HW03/MECH6323-HW03.tex" 1646194836 12292 b8c3bfb3c27e3ad67959fc819515eff1 ""
+["pdflatex"] 1646210091 "c:/Users/Jonas/OneDrive - The University of Texas at Dallas/2022_Spring/MECH6323/Homework/HW03/MECH6323-HW03.tex" "MECH6323-HW03.pdf" "MECH6323-HW03" 1646210460
+  "MECH6323-HW03.aux" 1646210094 1604 674125154afaed582a252eba2955e625 "pdflatex"
+  "MECH6323-HW03.out" 1646210094 576 e3037e3eecffa755c0c7316ea2e4b200 "pdflatex"
+  "MECH6323-HW03.tex" 1646210458 13233 9a56c7108d6d18c87aa9d21eefb5c8b7 ""
+  "MECH6323-HW03.toc" 1646210094 530 2da870b7e8d35d0a0e9f7f9d3c92a454 "pdflatex"
+  "MECH6323_HW03.pdf" 1646209799 563937 a45a3b67ef2a47c035532feb7b8f46f4 ""
+  "c:/Users/Jonas/OneDrive - The University of Texas at Dallas/2022_Spring/MECH6323/Homework/HW03/MECH6323-HW03.tex" 1646210458 13233 9a56c7108d6d18c87aa9d21eefb5c8b7 ""
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1630536755 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1630534826 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1630534826 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
@@ -131,8 +132,8 @@
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1630541066 2797773 0a4f2f027c3c660d286f461b7d600241 ""
   "c:/texlive/2021/texmf.cnf" 1630540902 713 e69b156964470283e0530f5060668171 ""
   (generated)
+  "MECH6323-HW03.toc"
   "MECH6323-HW03.out"
   "MECH6323-HW03.aux"
   "MECH6323-HW03.pdf"
-  "MECH6323-HW03.toc"
   "MECH6323-HW03.log"

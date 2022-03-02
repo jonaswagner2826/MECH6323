@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.1)  1 MAR 2022 22:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.1)  2 MAR 2022 02:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -458,23 +458,125 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
  [1
 
-{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] (./MECH6323-HW03.aux)
+{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
+<MECH6323_HW03.pdf, id=111, 614.295pt x 794.97pt>
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf>
+Package pdftex.def Info: MECH6323_HW03.pdf  used on input line 269.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf>
+Package pdftex.def Info: MECH6323_HW03.pdf  used on input line 269.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<MECH6323_HW03.pdf, id=114, page=1, 614.295pt x 794.97pt>
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 1>
+Package pdftex.def Info: MECH6323_HW03.pdf , page1 used on input line 269.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 1>
+Package pdftex.def Info: MECH6323_HW03.pdf , page1 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [6]
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 1>
+Package pdftex.def Info: MECH6323_HW03.pdf , page1 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 1>
+Package pdftex.def Info: MECH6323_HW03.pdf , page1 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 1>
+Package pdftex.def Info: MECH6323_HW03.pdf , page1 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [7 <./MECH6323_HW03.pdf>]
+<MECH6323_HW03.pdf, id=163, page=2, 614.295pt x 794.97pt>
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 2>
+Package pdftex.def Info: MECH6323_HW03.pdf , page2 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 2>
+Package pdftex.def Info: MECH6323_HW03.pdf , page2 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 2>
+Package pdftex.def Info: MECH6323_HW03.pdf , page2 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [8 <./MECH6323_HW03.pdf>]
+<MECH6323_HW03.pdf, id=168, page=3, 614.295pt x 794.97pt>
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 3>
+Package pdftex.def Info: MECH6323_HW03.pdf , page3 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 3>
+Package pdftex.def Info: MECH6323_HW03.pdf , page3 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 3>
+Package pdftex.def Info: MECH6323_HW03.pdf , page3 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [9 <./MECH6323_HW03.pdf>]
+<MECH6323_HW03.pdf, id=173, page=4, 614.295pt x 794.97pt>
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 4>
+Package pdftex.def Info: MECH6323_HW03.pdf , page4 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 4>
+Package pdftex.def Info: MECH6323_HW03.pdf , page4 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 4>
+Package pdftex.def Info: MECH6323_HW03.pdf , page4 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [10 <./MECH6323_HW03.pdf>]
+<MECH6323_HW03.pdf, id=178, page=5, 614.295pt x 794.97pt>
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 5>
+Package pdftex.def Info: MECH6323_HW03.pdf , page5 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 5>
+Package pdftex.def Info: MECH6323_HW03.pdf , page5 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 5>
+Package pdftex.def Info: MECH6323_HW03.pdf , page5 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [11 <./MECH6323_HW03.pdf>]
+<MECH6323_HW03.pdf, id=183, page=6, 614.295pt x 794.97pt>
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 6>
+Package pdftex.def Info: MECH6323_HW03.pdf , page6 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 6>
+Package pdftex.def Info: MECH6323_HW03.pdf , page6 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MECH6323_HW03.pdf Graphic file (type pdf)
+<use MECH6323_HW03.pdf, page 6>
+Package pdftex.def Info: MECH6323_HW03.pdf , page6 used on input line 269.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [12 <./MECH6323_HW03.pdf>] [13] [14] (./MECH6323-HW03.aux)
 Package rerunfilecheck Info: File `MECH6323-HW03.out' has not changed.
 (rerunfilecheck)             Checksum: E3037E3EECFFA755C0C7316EA2E4B200;576.
  ) 
 Here is how much of TeX's memory you used:
- 12234 strings out of 478599
- 176948 string characters out of 5858102
- 518647 words of memory out of 5000000
- 29880 multiletter control sequences out of 15000+600000
+ 12268 strings out of 478599
+ 177852 string characters out of 5858102
+ 524650 words of memory out of 5000000
+ 29906 multiletter control sequences out of 15000+600000
  414447 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,17n,81p,463b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,19n,81p,463b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on MECH6323-HW03.pdf (8 pages, 217155 bytes).
+Output written on MECH6323-HW03.pdf (14 pages, 781435 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
- 178 compressed objects within 2 object streams
- 50 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 304 PDF objects out of 1000 (max. 8388607)
+ 221 compressed objects within 3 object streams
+ 56 named destinations out of 1000 (max. 500000)
+ 110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
