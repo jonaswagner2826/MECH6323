@@ -1,0 +1,11 @@
+Final Project in lieu of Final Exam Please start thinking about your final project. 
+Your project should use the techniques and tools covered in this course on a particular physical system.
+This may or may not be related to your research. 
+In the project, you can use analysis tools to assess the robustness of a given feedback system. 
+Alternatively, you can use optimal control techniques (LQR, H1, H2) to synthesize a controller. 
+For now, please specify the system that you will consider.
+Give a brief 1-page summary describing the physical system that you will study. 
+This should include a description of the (linearized) dynamics as well as some initial simulation results (e.g., open-loop step response if the system is stable). 
+You may work individually or in a group of two. 
+Just make sure you mention the names of both group members on the summary. 
+Deadline: Please email me your 1-page project summaries before the beginning of class on April 6th.
