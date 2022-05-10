@@ -1,6 +1,6 @@
 % 04/12/2020
 %
-% Mixed Synthesis Example 2
+% Mixed Synthesis Example 2cod
 % 
 % This example demonstrates the use of sysic/connect on a simple
 % mixed synthesis example with a 2-DOF controller. The mixsyn command
