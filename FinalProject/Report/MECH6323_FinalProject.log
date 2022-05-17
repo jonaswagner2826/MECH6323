@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.1)  13 MAY 2022 03:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.1)  16 MAY 2022 18:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -400,12 +400,12 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-<figs/3dof_model_diag.png, id=12, 556.0775pt x 249.93375pt>
+<figs/3dof_model_diag.png, id=80, 556.0775pt x 249.93375pt>
 File: figs/3dof_model_diag.png Graphic file (type png)
 <use figs/3dof_model_diag.png>
-Package pdftex.def Info: figs/3dof_model_diag.png  used on input line 39.
+Package pdftex.def Info: figs/3dof_model_diag.png  used on input line 40.
 (pdftex.def)             Requested size: 234.8775pt x 105.5702pt.
-
+ [1{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figs/3dof_model_diag.png>] [2] [3] [4]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -417,23 +417,23 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[1{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figs/3dof_model_diag.png>] (./MECH6323_FinalProject.aux)
+[5] (./MECH6323_FinalProject.aux)
 Package rerunfilecheck Info: File `MECH6323_FinalProject.out' has not changed.
-(rerunfilecheck)             Checksum: F1081B24FDCEB0D7A0BA9D4A4B09AAFF;282.
+(rerunfilecheck)             Checksum: D6822DDDB8AA98185C9A2B213D3B752A;3287.
  ) 
 Here is how much of TeX's memory you used:
- 10347 strings out of 478599
- 154374 string characters out of 5858102
- 486672 words of memory out of 5000000
- 28112 multiletter control sequences out of 15000+600000
- 433204 words of font info for 77 fonts, out of 8000000 for 9000
+ 10408 strings out of 478599
+ 155264 string characters out of 5858102
+ 501800 words of memory out of 5000000
+ 28140 multiletter control sequences out of 15000+600000
+ 438308 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,10n,81p,602b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on MECH6323_FinalProject.pdf (1 page, 105675 bytes).
+ 71i,11n,81p,543b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on MECH6323_FinalProject.pdf (5 pages, 216695 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
- 22 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 204 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 158 words of extra memory for PDF output out of 10000 (max. 10000000)
 
